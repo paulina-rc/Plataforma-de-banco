@@ -147,17 +147,17 @@ def informe_detallado():
 def menu():
     while True:
         print("""
-1. Ingresar cliente
-2. Terminar atención
-3. Activar/Desactivar caja
-4. Ver últimas atenciones de una caja
-5. Ver últimas atenciones de todas
-6. Informe cantidad por prioridad
-7. Informe detallado por prioridad
-8. Ver cola
-9. Ver estado de cajas
-0. Salir
-""")
+            1. Ingresar cliente
+            2. Terminar atención
+            3. Activar/Desactivar caja
+            4. Ver últimas atenciones de una caja
+            5. Ver últimas atenciones de todas
+            6. Informe cantidad por prioridad
+            7. Informe detallado por prioridad
+            8. Ver cola
+            9. Ver estado de cajas
+            0. Salir
+        """)
 
         opcion = input("Seleccione: ")
 
